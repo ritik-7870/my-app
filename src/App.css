@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container1 {
+  text-align: center !important;
+  height: 100vh;
+  padding: 10px;
+  padding-top: 100px;
+  justify-content: center;
+  background-color: gray;
+}
+.modal-90w{
+  width: 90% !important;
+  max-width: none !important;
+}
